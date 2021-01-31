@@ -1,0 +1,6 @@
+framework module Pods_GetReactive {
+  umbrella header "Pods-GetReactive-umbrella.h"
+
+  export *
+  module * { export * }
+}

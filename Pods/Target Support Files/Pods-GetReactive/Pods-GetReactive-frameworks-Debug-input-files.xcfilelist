@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-GetReactive/Pods-GetReactive-frameworks.sh
+${BUILT_PRODUCTS_DIR}/RxCocoa-iOS13.0/RxCocoa.framework
+${BUILT_PRODUCTS_DIR}/RxRelay-iOS13.0/RxRelay.framework
+${BUILT_PRODUCTS_DIR}/RxSwift-iOS13.0/RxSwift.framework
